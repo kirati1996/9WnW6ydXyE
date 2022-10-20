@@ -1,0 +1,16 @@
+{
+  "name": "pfnn9NYuO1FmIKh",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "แทงบอลโลก ดูบอลโลกรอบคัดเลือก",
+  "keywords": [
+    "โปรแกรมบอลโลก ดูบอลโลกรอบคัดเลือก",
+    "ข่าวฟุตบอล แทงบอลโลก2022", 
+    "โปรแกรมบอลโลก แทงบอลโลก"
+  ],
+  "repository": "https://github.com/kirati1996/9WnW6ydXyE.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
